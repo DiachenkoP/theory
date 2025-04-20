@@ -1,2 +1,2 @@
 "Теория тестирования"
-"Определение методов, типов и уровней тестирования для приложения интернет-магазин" https://docs.google.com/spreadsheets/d/1vZCTtHn04SHNoVUuskpE0YMQN4iSqYCgKNRgisicL0k/edit?usp=sharing
+"Анализ требований приложения "интернет-магазин" на несоответствие их качественных характеристик" https://docs.google.com/spreadsheets/d/1FNaP7I6FJeeRpZ9uzxUdh3VFwiOLrMcOhuOOitc4CnQ/edit?usp=sharing
